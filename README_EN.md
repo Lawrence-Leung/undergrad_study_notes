@@ -21,7 +21,7 @@ The following is what has been added so far (2024.1.27):
 | 1st semester of sophomore year | Analog Electronics | School of Automation | 32 | Microsoft OneNote |
 | 1st semester of sophomore year | Computer Network Theories | School of Automation | 32 | Microsoft OneNote |
 | 1st semester of sophomore year | Data Structures and Algorithms | School of Automation | 32 | pdf |
-| 1st semester of sophomore year | College Physics (2) | School of Automation | 64 | iOS/iPadOS Prodraft |
+| 1st semester of sophomore year | College Physics (2) | School of Automation | 64 | iOS/iPadOS Prodrafts |
 | 2nd semester of sophomore year | Automatic Control Principles | School of Automation | 88 | pdf |
 | 1st semester of junior year | Introduction to Integrated Circuits (theoretical exam part only) | School of Integrated Circuits | 88 | pdf |
 | 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind |
