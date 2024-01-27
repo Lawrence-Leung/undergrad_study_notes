@@ -2,8 +2,6 @@
 
 ### 📚 Introduction of this repository
 
-### 📚 Repository introduction
-
 Welcome to my personal note repository `undergrad_study_notes`. This project grew out of my passion and concern for knowledge sharing and equity in education. As a college student, I understand the importance of acquiring knowledge during the academic journey and the impact it has on personal growth. Therefore, I decided to share some of my theoretical course notes from the School of Automation and School of Integrated Circuits of Guangdong University of Technology, my alma mater, in the hope that they can be helpful to people around the world who are looking for related learning resources.
 
 These notes are my personal accumulation in past course studies. They reflect my learning process, understanding and thinking. Please understand that these notes are not a record of all the courses I have taken, because some of them were recorded directly in textbooks or other materials and cannot be shared in a complete form. But I believe that even these fragmentary records can provide certain guidance and inspiration for those who pursue knowledge.
