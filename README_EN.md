@@ -24,7 +24,7 @@ The following is what has been added so far (2024.1.27):
 | 1st semester of sophomore year | College Physics (2) | School of Automation | 64 | iOS/iPadOS Prodraft |
 | 2nd semester of sophomore year | Automatic Control Principles | School of Automation | 88 | pdf |
 | 1st semester of junior year | Introduction to Integrated Circuits (theoretical exam part only) | School of Integrated Circuits | 88 | pdf |
-| 1st semester of junior year | Computer Architecture | School of Integrated Circuits | 64 | pdf |
+| 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind |
 | 1st semester of junior year | Embedded Systems (theoretical exam part only) | School of Integrated Circuits | 64 | pdf |
 
 The following is the content that has been completed but needs to be scanned and uploaded. Updates will be uploaded soon:
@@ -39,7 +39,7 @@ The following is the content that has been completed but needs to be scanned and
 
 The subsequent update plan has not been determined and may need to wait for about a year.
 
-### 🔄Update and maintenance
+### 🔄 Update and maintenance
 
 - Notes will be updated from time to time.
 - Due to busy school work and other reasons, the frequency of updates may be slower.
