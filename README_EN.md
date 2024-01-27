@@ -17,7 +17,7 @@ The following is what has been added so far (2024.1.27):
 | Teaching grade | Course name | Source college | Class hours | File format |
 | ---------- | ------------------------------- | ------------ | ---- | ------------------- |
 | 1st semester of freshman year | Linear Algebra | School of Automation | 32 | pdf |
-| 1st semester of freshman year | Outline of Modern Chinese History | School of Automation | 32 | pdf |
+| 1st semester of freshman year | Outline of Modern Chinese History | School of Automation | 32 | Microsoft Word |
 | 1st semester of sophomore year | Analog Electronics | School of Automation | 32 | Microsoft OneNote |
 | 1st semester of sophomore year | Computer Network Theories | School of Automation | 32 | Microsoft OneNote |
 | 1st semester of sophomore year | Data Structures and Algorithms | School of Automation | 32 | pdf |
