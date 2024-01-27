@@ -8,7 +8,7 @@ These notes are my personal accumulation in past course studies. They reflect my
 
 The content of this repository will be updated from time to time. Due to my studies and other reasons, the update may be slow. But no matter what, my enthusiasm for sharing these materials will not diminish, and I hope that these notes can play some role in your academic journey, even just a little.
 
-### 🎓 Scope of Courses
+### 🎓 Scope of courses
 
 > Please note that these notes are my personal accumulation during the learning process and may not be perfect. Because for some courses my notes were not recorded in the form of notebooks or other materials, but were recorded directly in textbooks or other materials and could not be uploaded and shared.
 
@@ -44,7 +44,7 @@ The subsequent update plan has not been determined and may need to wait for abou
 - Notes will be updated from time to time.
 - Due to busy school work and other reasons, the frequency of updates may be slower.
 
-### ⚠️ Disclaimer and Copyright
+### ⚠️ Disclaimer and copyright
 
 - The content in this repository is for learning and communication purposes only and may not be used for commercial purposes.
 - The copyright of all content belongs to the original author. Please indicate the source when quoting or reprinting.
