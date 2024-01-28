@@ -6,7 +6,7 @@ Welcome to my personal note repository `undergrad_study_notes`. This project gre
 
 These notes are my personal accumulation in past course studies. They reflect my learning process, understanding and thinking. Please understand that these notes are not a record of all the courses I have taken, because some of them were recorded directly in textbooks or other materials and cannot be shared in a complete form. But I believe that even these fragmentary records can provide certain guidance and inspiration for those who pursue knowledge.
 
-The content of this repository will be updated from time to time. Due to my studies and other reasons, the update may be slow. But no matter what, my enthusiasm for sharing these materials will not diminish, and I hope that these notes can play some role in your academic journey, even just a little.
+The content of this repository will be updated occasionally. Due to my studies and other reasons, the update may be slow. But no matter what, my enthusiasm for sharing these materials will not diminish, and I hope that these notes can play some role in your academic journey, even just a little.
 
 ### 🎓 Scope of courses
 
@@ -40,7 +40,7 @@ The following is the content that has been completed but needs to be scanned and
 
 ### 🔄 Update and maintenance
 
-- Notes will be updated from time to time.
+- Notes will be updated occasionally, not too often.
 - Due to busy school work and other reasons, the frequency of updates may be slower.
 - The subsequent update plan has not been determined and may need to wait for about a year.
 
