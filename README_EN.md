@@ -27,7 +27,7 @@ The following is what has been added so far (2024.2.26):
 | 2nd semester of sophomore year | Signals and Systems | School of Automation | 32 | pdf | 3.5/4.0 | Handwriting |
 | 2nd semester of sophomore year | Automatic Control Principles | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting
 | 1st semester of junior year | Introduction to Integrated Circuits (theoretical exam part only) | School of Integrated Circuits | 88 | pdf | 1.5/4.0 | Keyboard
-| 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind | 2.0/4.0 | Keyboard
+| 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind | 2.0/4.0 | Keyboard & Handwriting
 | 1st semester of junior year | Embedded Systems (theoretical exam part only) | School of Integrated Circuits | 64 | pdf | 1.5/4.0 | Keyboard |
 | 1st semester of junior year | Analog Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
 | 1st semester of junior year | Digital Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
