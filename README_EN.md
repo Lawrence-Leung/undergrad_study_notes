@@ -14,27 +14,27 @@ The content of this repository will be updated occasionally. Due to my studies a
 
 The following is what has been added so far (08/30/2024):
 
-| Teaching grade | Course name | Source college | Class hours | File format | Level of detail | Recording method |
-| ---------- | ------------------------------- | ------------ | ---- | ------------------- | ----- | ----------|
-| 1st semester of freshman year | Linear Algebra | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting |
-| 1st semester of freshman year | Higher Mathematics (1) | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting |
-| 1st semester of freshman year | Outline of Modern Chinese History | School of Automation | 32 | Microsoft Word | 2.0/4.0 | Keyboard |
-| 1st semester of sophomore year | Analog Electronics | School of Automation | 32 | Microsoft OneNote | 3.5/4.0 | Hybrid |
-| 1st semester of sophomore year | Computer Network Theories | School of Automation | 32 | Microsoft OneNote | 3.5/4.0 | Hybrid |
-| 1st semester of sophomore year | Data Structures and Algorithms | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting
-| 1st semester of sophomore year | College Physics (2) | School of Automation | 64 | iOS/iPadOS Prodrafts | 3.0/4.0 | Handwriting
-| 2nd semester of sophomore year | Digital Electronics | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting |
-| 2nd semester of sophomore year | Signals and Systems | School of Automation | 32 | pdf | 3.5/4.0 | Handwriting |
-| 2nd semester of sophomore year | Automatic Control Principles | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting
-| 1st semester of junior year | Introduction to Integrated Circuits (theoretical exam part only) | School of Integrated Circuits | 88 | pdf | 1.5/4.0 | Keyboard
-| 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind, pdf | 2.0/4.0 | Keyboard & Handwriting
-| 1st semester of junior year | Embedded Systems (theoretical exam part only) | School of Integrated Circuits | 64 | pdf | 1.5/4.0 | Keyboard |
-| 1st semester of junior year | Analog Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
-| 1st semester of junior year | Digital Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
-| 2nd semester of junior year | Switching Power Supply Technology | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
-| 2nd semester of junior year | Shannon Information Theory Foundation | School of Integrated Circuits | 32 | pdf | 4.0/4.0 | Handwriting |
-| 2nd semester of junior year | Radio Frequency Communication Circuit Foundation | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
-| 2nd semester of junior year | Communication Principles | School of Integrated Circuits | 64 | pdf | 4.0/4.0 | Handwriting |
+| Number | Teaching grade | Course name | Source college | Class hours | File format | Level of detail | Recording method |
+| ------ | ---------- | ------------------------------- | ------------ | ---- | ------------------- | ----- | ----------|
+| 1 | 1st semester of freshman year | Linear Algebra | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting |
+| 2 | 1st semester of freshman year | Higher Mathematics (1) | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting |
+| 3 | 1st semester of freshman year | Outline of Modern Chinese History | School of Automation | 32 | Microsoft Word | 2.0/4.0 | Keyboard |
+| 4 | 1st semester of sophomore year | Analog Electronics | School of Automation | 32 | Microsoft OneNote | 3.5/4.0 | Hybrid |
+| 5 | 1st semester of sophomore year | Computer Network Theories | School of Automation | 32 | Microsoft OneNote | 3.5/4.0 | Hybrid |
+| 6 | 1st semester of sophomore year | Data Structures and Algorithms | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting
+| 7 | 1st semester of sophomore year | College Physics (2) | School of Automation | 64 | iOS/iPadOS Prodrafts | 3.0/4.0 | Handwriting
+| 8 | 2nd semester of sophomore year | Digital Electronics | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting |
+| 9 | 2nd semester of sophomore year | Signals and Systems | School of Automation | 32 | pdf | 3.5/4.0 | Handwriting |
+| 10 | 2nd semester of sophomore year | Automatic Control Principles | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting
+| 11 | 1st semester of junior year | Introduction to Integrated Circuits (theoretical exam part only) | School of Integrated Circuits | 88 | pdf | 1.5/4.0 | Keyboard
+| 12 | 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind, pdf | 2.0/4.0 | Keyboard & Handwriting
+| 13 | 1st semester of junior year | Embedded Systems (theoretical exam part only) | School of Integrated Circuits | 64 | pdf | 1.5/4.0 | Keyboard |
+| 14 | 1st semester of junior year | Analog Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
+| 15 | 1st semester of junior year | Digital Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
+| 16 | 2nd semester of junior year | Switching Power Supply Technology | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
+| 17 | 2nd semester of junior year | Shannon Information Theory Foundation | School of Integrated Circuits | 32 | pdf | 4.0/4.0 | Handwriting |
+| 18 | 2nd semester of junior year | Radio Frequency Communication Circuit Foundation | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
+| 19 | 2nd semester of junior year | Communication Principles | School of Integrated Circuits | 64 | pdf | 4.0/4.0 | Handwriting |
 > Note: A level of detail of 2.0 and above has certain reference value; a level of detail of 3.0 and above has higher reference value.
 
 ### 🔄 Update and maintenance
