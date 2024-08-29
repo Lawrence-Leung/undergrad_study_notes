@@ -12,7 +12,7 @@ The content of this repository will be updated occasionally. Due to my studies a
 
 > Please note that these notes are my personal accumulation during the learning process and may not be perfect. Because for some courses my notes were not recorded in the form of notebooks or other materials, but were recorded directly in textbooks or other materials and could not be uploaded and shared.
 
-The following is what has been added so far (2024.2.26):
+The following is what has been added so far (08/30/2024):
 
 | Teaching grade | Course name | Source college | Class hours | File format | Level of detail | Recording method |
 | ---------- | ------------------------------- | ------------ | ---- | ------------------- | ----- | ----------|
@@ -31,13 +31,17 @@ The following is what has been added so far (2024.2.26):
 | 1st semester of junior year | Embedded Systems (theoretical exam part only) | School of Integrated Circuits | 64 | pdf | 1.5/4.0 | Keyboard |
 | 1st semester of junior year | Analog Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
 | 1st semester of junior year | Digital Integrated Circuit Design | School of Integrated Circuits | 88 | pdf | 4.0/4.0 | Handwriting |
+| 2nd semester of junior year | Switching Power Supply Technology | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
+| 2nd semester of junior year | Shannon Information Theory Foundation | School of Integrated Circuits | 32 | pdf | 4.0/4.0 | Handwriting |
+| 2nd semester of junior year | Radio Frequency Communication Circuit Foundation | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
+| 2nd semester of junior year | Communication Principles | School of Integrated Circuits | 64 | pdf | 4.0/4.0 | Handwriting |
 > Note: A level of detail of 2.0 and above has certain reference value; a level of detail of 3.0 and above has higher reference value.
 
 ### 🔄 Update and maintenance
 
-- Notes will be updated occasionally, not too often.
 - Due to busy school work and other reasons, the frequency of updates may be slower.
-- The subsequent update plan has not been determined and may need to wait for about a year.
+- Since there are no major-related courses in the fourth year of university (except for corporate internships, graduation projects, and few meaningless courses -- ideological and political courses), the current version (08/30/2024) is the final version.
+- The final average GPA during the first three years of university is: 4.16/5.00, and the grade ranking (automation major, including IC) is: 5/331, ranking in the top 1.5%.
 
 ### ⚠️ Disclaimer and copyright
 
