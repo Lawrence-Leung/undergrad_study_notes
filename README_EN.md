@@ -53,7 +53,6 @@ The following is what has been added so far (08/30/2024):
 
 - Due to busy school work and other reasons, the frequency of updates may be slower.
 - Since there are no major-related courses in the fourth year of university (except for corporate internships, graduation projects, and few meaningless courses -- ideological and political courses), the current version (08/30/2024) is the final version.
-- The final average GPA during the first three years of university is: 4.16/5.00, and the grade ranking (automation major, including IC) is: 5/331, ranking in the top 1.5%.
 
 ### ⚠️ Disclaimer and copyright
 
