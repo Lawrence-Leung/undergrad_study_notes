@@ -25,7 +25,7 @@ The following is what has been added so far (08/30/2024):
 | 7 | 1st semester of sophomore year | College Physics (2) | School of Automation | 64 | iOS/iPadOS Prodrafts | 3.0/4.0 | Handwriting
 | 8 | 2nd semester of sophomore year | Digital Electronics | School of Automation | 32 | pdf | 3.0/4.0 | Handwriting |
 | 9 | 2nd semester of sophomore year | Signals and Systems | School of Automation | 32 | pdf | 3.5/4.0 | Handwriting |
-| 10 | 2nd semester of sophomore year | Automatic Control Principles | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting
+| 10 | 2nd semester of sophomore year | Principles of Automatic Control | School of Automation | 88 | pdf | 4.0/4.0 | Handwriting
 | 11 | 1st semester of junior year | Introduction to Integrated Circuits (theoretical exam part only) | School of Integrated Circuits | 88 | pdf | 1.5/4.0 | Keyboard
 | 12 | 1st semester of junior year | Computer Architecture (theoretical exam part only)| School of Integrated Circuits | 64 | XMind, pdf | 2.0/4.0 | Keyboard & Handwriting
 | 13 | 1st semester of junior year | Embedded Systems (theoretical exam part only) | School of Integrated Circuits | 64 | pdf | 1.5/4.0 | Keyboard |
@@ -36,6 +36,18 @@ The following is what has been added so far (08/30/2024):
 | 18 | 2nd semester of junior year | Radio Frequency Communication Circuit Foundation | School of Integrated Circuits | 32 | pdf | 3.5/4.0 | Handwriting |
 | 19 | 2nd semester of junior year | Communication Principles | School of Integrated Circuits | 64 | pdf | 4.0/4.0 | Handwriting |
 > Note: A level of detail of 2.0 and above has certain reference value; a level of detail of 3.0 and above has higher reference value.
+
+![thumbnail1.jpg](./thumbnails/thumbnail1.jpg)
+
+> Inner page display 1: "Analog Integrated Circuit Design"
+
+![thumbnail2.jpg](./thumbnails/thumbnail2.jpg)
+
+> Inner page display 2: "Principles of Automatic Control"
+
+![thumbnail3.jpg](./thumbnails/thumbnail3.jpg)
+
+> Inner page display 3: "Signal and Systems"
 
 ### 🔄 Update and maintenance
 
